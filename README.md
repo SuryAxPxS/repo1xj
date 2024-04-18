@@ -1,2 +1,4 @@
 # repo1xj
-1st repository
+This is my first git repository 
+repo owner-Surya
+
